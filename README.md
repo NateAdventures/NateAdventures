@@ -1,13 +1,18 @@
 # Hello there, my name is Nathan Clover
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Msc+student+in+Macine+Learning;8+years+of+analysis+experience;avarege+Analyst/DS/ML/AI/C++_enjoyer;Digital+Craftsman)](https://git.io/typing-svg)
 ---
-I'm an Msc student in MEPHI university,
-completed my bachelors in the Tel Aviv University.
-I am trying really hard to get into `Quantitative Data Science in algotrading` bacuse I've seen them at work and it was love at first sight.
+Currently I'm an Msc student in Macine Learning at the MEPHI university,
+I've completed my bachelors in Information Technology at the Tel Aviv University.
+I am trying really hard to get into `Quantitative Data Science in algotrading` bacuse I've seen them at work and it was love at first sight, therefore, i will try to make projects as close as possible to that area.
+<br />
+<br />
+### Experince:
+<br />
 8 years of financial and data analysis experience.
 with C++ and AI/ML projects on the side.
----
-**`Other than that, i love star wars (before disney), comix, video games, psychology, shooting ranges, paradiving and Muai thai`**
+<br />
+### Overall hobbies:
+I love star wars (before disney), standup, comics, video games, psychology, shooting ranges, paradiving and Muai thai
 ---
 ### Languages and Tools:
 
@@ -26,7 +31,6 @@ with C++ and AI/ML projects on the side.
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
 
----
   
 
 
