@@ -10,8 +10,9 @@ I am trying really hard to get into `Quantitative Data Science in algotrading` b
 
 <br />
 
-8 years of financial and data analysis experience.
-with C++ and AI/ML projects on the side.
+8 years of financial and data analysis experience,
+with a fewC++ and AI/ML projects on the side.
+1 more year as a Project manager. I've worked in a Fintech, logistics and B2B sales fields.
 
 <br />
 
