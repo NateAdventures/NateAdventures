@@ -7,10 +7,14 @@ I am trying really hard to get into `Quantitative Data Science in algotrading` b
 <br />
 <br />
 ### Experince:
+
 <br />
+
 8 years of financial and data analysis experience.
 with C++ and AI/ML projects on the side.
+
 <br />
+
 ### Overall hobbies:
 I love star wars (before disney), standup, comics, video games, psychology, shooting ranges, paradiving and Muai thai
 ---
