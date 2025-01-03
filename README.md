@@ -5,7 +5,7 @@
 
 I'm an Msc student in MEPHI university,
 completed my bachelors in the Tel Aviv University.
-I am trying really hard to get into quant trading development bacuse I've seen them at work and it was love at first sight.
+I am trying really hard to get into `Quantitative Data Science in algotrading` bacuse I've seen them at work and it was love at first sight.
 8 years of financial and data analysis experience.
 with C++ and ML projects on the side.
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
