@@ -1,6 +1,6 @@
 # Hello there, my name is Nathan Clover
 
-**'Digital Craftsman, avarege Analyst/DS/ML/AI/C++ enjoyer'** 
+**`Digital Craftsman, avarege Analyst/DS/ML/AI/C++ enjoyer`** 
 
 
 I'm an Msc student in MEPHI university,
