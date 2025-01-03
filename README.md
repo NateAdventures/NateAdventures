@@ -11,3 +11,7 @@ with C++ and ML projects on the side.
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 **other than that, i love star wars (before disney), comix, video games, psychology, shooting ranges, paradiving and Muai thai.**
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/nathanc93/">
+  <img alt="LinkedIn"
