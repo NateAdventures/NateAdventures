@@ -15,4 +15,4 @@ with C++ and ML projects on the side.
 <p align="left">
   <a href="https://www.linkedin.com/in/nathanc93/">
   <img alt="LinkedIn" title="My LinkedIn profile"
-  src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Flinkedin_174857&psig=AOvVaw0VWaIQkWnNKYyRv8Ulu6Lz&ust=1735986395892000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJCFy7ar2YoDFQAAAAAdAAAAABAE"/></a>
+  src = "[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Flinkedin_174857&psig=AOvVaw0VWaIQkWnNKYyRv8Ulu6Lz&ust=1735986395892000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJCFy7ar2YoDFQAAAAAdAAAAABAE](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpb3AULGzEX8T0fb_Jae0LqKf9Z809phxo2w&s)"/></a>
