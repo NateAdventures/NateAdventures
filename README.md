@@ -1,7 +1,7 @@
 # Hello there, my name is Nathan Clover
 
 **`Digital Craftsman, avarege Analyst/DS/ML/AI/C++ enjoyer`** 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Msc+student+in+Macine+Learning;8+years+of+analysis+experience;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Msc+student+in+Macine+Learning;8+years+of+analysis+experience;avarege+Analyst/DS/ML/AI/C++_enjoyer;Digital+Craftsman)](https://git.io/typing-svg)
 
 
 I'm an Msc student in MEPHI university,
@@ -10,7 +10,7 @@ I am trying really hard to get into `Quantitative Data Science in algotrading` b
 8 years of financial and data analysis experience.
 with C++ and ML projects on the side.
 ---
-**other than that, i love star wars (before disney), comix, video games, psychology, shooting ranges, paradiving and Muai thai.**
+**`Other than that, i love star wars (before disney), comix, video games, psychology, shooting ranges, paradiving and Muai thai`**
 ---
 
 <p align="left">
