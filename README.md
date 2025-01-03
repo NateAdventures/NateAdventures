@@ -15,4 +15,4 @@ with C++ and ML projects on the side.
 <p align="left">
   <a href="https://www.linkedin.com/in/nathanc93/">
   <img alt="LinkedIn" title="My LinkedIn profile"
-  src = ""/></a>
+  
