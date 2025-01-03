@@ -1,4 +1,11 @@
-## Hi there 👋
+# Hi there 👋 my name is Nathan Clover
+
+**'Digital Craftsman, avarege Analyst/DS/ML/AI/C++ enjoyer'** 
+
+
+I'm an Msc student in MEPHI university
+Finished my bachelors in the Tel Aviv University
+I am trying really hard to get into quant trading development bacuse Ive seen them at work and it was love at first sight.
 
 <!--
 **NateAdventures/NateAdventures** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
