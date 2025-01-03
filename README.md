@@ -17,7 +17,7 @@ with a fewC++ and AI/ML projects on the side.
 <br />
 
 ## Overall hobbies:
-<br />
+
 I love star wars (before disney), standup, comics, video games, psychology, shooting ranges, paradiving and Muai thai
 ---
 ### Languages and Tools:
