@@ -6,7 +6,7 @@ I've completed my bachelors in Information Technology at the Tel Aviv University
 I am trying really hard to get into `Quantitative Data Science in algotrading` bacuse I've seen them at work and it was love at first sight, therefore, i will try to make projects as close as possible to that area.
 <br />
 <br />
-### Experince:
+## Experince:
 
 <br />
 
@@ -16,7 +16,8 @@ with a fewC++ and AI/ML projects on the side.
 
 <br />
 
-### Overall hobbies:
+## Overall hobbies:
+
 I love star wars (before disney), standup, comics, video games, psychology, shooting ranges, paradiving and Muai thai
 ---
 ### Languages and Tools:
