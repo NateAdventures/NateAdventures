@@ -1,4 +1,4 @@
-# Hello there, my name is Nathan Clover
+### Hello there, my name is Nathan Clover
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Msc+student+in+Macine+Learning;8+years+of+analysis+experience;avarege+Analyst/DS/ML/AI/C++_enjoyer;Digital+Craftsman)](https://git.io/typing-svg)
 ---
 Currently I'm an Msc student in Macine Learning at the MEPHI university,
@@ -17,7 +17,7 @@ with a fewC++ and AI/ML projects on the side.
 <br />
 
 ## Overall hobbies:
-
+<br />
 I love star wars (before disney), standup, comics, video games, psychology, shooting ranges, paradiving and Muai thai
 ---
 ### Languages and Tools:
