@@ -19,9 +19,8 @@ with C++ and AI/ML projects on the side.
 
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
   <p>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <a href="https://github.com/NateAdventures/github-readme-streak-stats">
       <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=DenverCoder1&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
     </a>
     <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
   </p>
@@ -38,24 +37,20 @@ with C++ and AI/ML projects on the side.
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=DenverCoder1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="NateAdventures's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=NateAdventures&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
   <h3>⚡ Recent GitHub Activity</h3>
 
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#369](https://github.com/DenverCoder1/readme-typing-svg/pull/369) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-2. 🎉 Merged PR [#366](https://github.com/DenverCoder1/readme-typing-svg/pull/366) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-3. ❌ Closed PR [#364](https://github.com/DenverCoder1/readme-typing-svg/pull/364) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-4. 🗣 Commented on [#364](https://github.com/DenverCoder1/readme-typing-svg/issues/364) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-5. ❗️ Closed issue [#368](https://github.com/DenverCoder1/readme-typing-svg/issues/368) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+1. 🎉 Merged PR [#369](https://github.com/NateAdventures/readme-typing-svg/pull/369) in [NateAdventures/readme-typing-svg](https://github.com/NateAdventures/readme-typing-svg)
+2. 🎉 Merged PR [#366](https://github.com/NateAdventures/readme-typing-svg/pull/366) in [NateAdventures/readme-typing-svg](https://github.com/NateAdventures/readme-typing-svg)
+3. ❌ Closed PR [#364](https://github.com/NateAdventures/readme-typing-svg/pull/364) in [NateAdventures/readme-typing-svg](https://github.com/NateAdventures/readme-typing-svg)
+4. 🗣 Commented on [#364](https://github.com/NateAdventures/readme-typing-svg/issues/364) in [NateAdventures/readme-typing-svg](https://github.com/NateAdventures/readme-typing-svg)
+5. ❗️ Closed issue [#368](https://github.com/NateAdventures/readme-typing-svg/issues/368) in [NateAdventures/readme-typing-svg](https://github.com/NateAdventures/readme-typing-svg)
 <!--END_SECTION:activity-->
 
 </details>
 
-<details> 
-  <summary><h2>🏷️ Holopin Badges</h2></summary>
 
-  <p><a href="https://holopin.io/@denvercoder1"><img src="https://holopin.me/denvercoder1" alt="@denvercoder1&#39;s Holopin board"></a></p>
-</details>
