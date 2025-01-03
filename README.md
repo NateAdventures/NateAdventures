@@ -9,7 +9,7 @@ I am trying really hard to get into quant trading development bacuse Ive seen th
 8 years of financial and data analysis experience.
 with C++ and ML projects on the side.
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
-**✨other than that, i love star wars (before disney), comix, vido games, psychology, shooting ranges, paradiving and Muai thai.✨**
+**other than that, i love star wars (before disney), comix, vido games, psychology, shooting ranges, paradiving and Muai thai.**
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 <!--
 **NateAdventures/NateAdventures** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
