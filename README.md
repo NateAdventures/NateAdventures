@@ -47,7 +47,6 @@ My passion lies in **Quantitative Data Science for Algorithmic Trading**. After 
 
 ## Certifications
 
-```html
 <div align="center">
   <table>
     <tr>
@@ -56,18 +55,17 @@ My passion lies in **Quantitative Data Science for Algorithmic Trading**. After 
       <th>Year</th>
     </tr>
     <tr>
-      <td>C2 level English</td>
-      <td>(https://www.efset.org/cert/BqLypD)</td>
+      <td><a href="https://www.efset.org/cert/BqLypD"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/EFSET_logo.png" width="50"></a> C2 Level English</td>
+      <td>EFSET</td>
       <td>2023</td>
     </tr>
     <tr>
-      <td>HackerU cybersecurity certification</td>
-      <td>(https://img1.wsimg.com/isteam/ip/46740b1b-a9a7-47a5-b971-0fbb4f055284/1601586105204.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280)</td>
+      <td><a href="https://img1.wsimg.com/isteam/ip/46740b1b-a9a7-47a5-b971-0fbb4f055284/1601586105204.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280"><img src="https://img1.wsimg.com/isteam/ip/46740b1b-a9a7-47a5-b971-0fbb4f055284/1601586105204.jpg" width="50"></a> HackerU Cybersecurity Certification</td>
+      <td>HackerU</td>
       <td>2019</td>
     </tr>
   </table>
 </div>
-```
 
 *Simply update the table above to add more certifications.*
 
