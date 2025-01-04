@@ -55,7 +55,7 @@ My passion lies in **Quantitative Data Science for Algorithmic Trading**. After 
       <th>Year</th>
     </tr>
     <tr>
-      <td><a href="https://www.efset.org/cert/BqLypD"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/EFSET_logo.png" width="50"></a> C2 Level English</td>
+      <td><a href="[https://www.efset.org/cert/BqLypD](https://img1.wsimg.com/isteam/ip/46740b1b-a9a7-47a5-b971-0fbb4f055284/Untitled.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280)"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/EFSET_logo.png" width="50"></a> C2 Level English</td>
       <td>EFSET</td>
       <td>2023</td>
     </tr>
