@@ -32,6 +32,9 @@ My passion lies in **Quantitative Data Science for Algorithmic Trading**. After 
 [![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=matplotlib)](https://matplotlib.org/)  
 [![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org/)  
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle)](https://www.kaggle.com/)  
+[![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)](https://powerbi.microsoft.com/)  
+[![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)](https://www.tableau.com/)  
+[![BPMN](https://img.shields.io/badge/-BPMN-0088CC?style=flat&logo=unifiedmodelinglanguage)](https://www.bpmn.org/)  
 
 ### Development & Databases:
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)  
@@ -53,19 +56,14 @@ My passion lies in **Quantitative Data Science for Algorithmic Trading**. After 
       <th>Year</th>
     </tr>
     <tr>
-      <td>Deep Learning Specialization</td>
-      <td>Coursera - Andrew Ng</td>
+      <td>C2 level English</td>
+      <td>(https://www.efset.org/cert/BqLypD)</td>
       <td>2023</td>
     </tr>
     <tr>
-      <td>Algorithmic Trading Strategies</td>
-      <td>QuantInsti</td>
-      <td>2024</td>
-    </tr>
-    <tr>
-      <td>Financial Engineering</td>
-      <td>EDX - Columbia University</td>
-      <td>2022</td>
+      <td>HackerU cybersecurity certification</td>
+      <td>(https://img1.wsimg.com/isteam/ip/46740b1b-a9a7-47a5-b971-0fbb4f055284/1601586105204.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280)</td>
+      <td>2019</td>
     </tr>
   </table>
 </div>
