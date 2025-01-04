@@ -1,44 +1,95 @@
-### Hello there, my name is Nathan Clover
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Msc+student+in+Macine+Learning;8+years+of+analysis+experience;avarege+Analyst/DS/ML/AI/C++_enjoyer;Digital+Craftsman)](https://git.io/typing-svg)
+### Hello, I'm Nathan Clover  
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=MSc+Student+in+Machine+Learning;8+Years+of+Analysis+Experience;Aspiring+Quantitative+Data+Scientist;Digital+Craftsman)](https://git.io/typing-svg)
+
 ---
-Currently I'm an Msc student in Macine Learning at the MEPHI university,
-I've completed my bachelors in Information Technology at the Tel Aviv University.
-I am trying really hard to get into `Quantitative Data Science in algotrading` bacuse I've seen them at work and it was love at first sight, therefore, i will try to make projects as close as possible to that area.
-<br />
-<br />
-## Experince:
 
-<br />
+## About Me
 
-8 years of financial and data analysis experience,
-with a fewC++ and AI/ML projects on the side.
-1 more year as a Project manager. I've worked in a Fintech, logistics and B2B sales fields.
+I am currently pursuing an MSc in Machine Learning at MEPhI University. I hold a BSc in Information Technology from Tel Aviv University. 
 
-<br />
+My passion lies in **Quantitative Data Science for Algorithmic Trading**. After witnessing quants at work, I knew this was the field for me. I am committed to developing projects closely aligned with this domain.
 
-## Overall hobbies:
-
-I love star wars (before disney), standup, comics, video games, psychology, shooting ranges, paradiving and Muai thai
 ---
-### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Python" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Numpy" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Pandas" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Sickit" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="MatPlotLib" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-plain.svg" style="padding-right:10px;" />]
-[<img align="left" alt="MatLab" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Jupyter" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Tensor" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Kaggle" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg" style="padding-right:10px;" />]
-[<img align="left" alt="UML" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original-wordmark.svg" style="padding-right:10px;" />]
-[<img align="left" alt="CPP" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="QT" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Ubuntu" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original-wordmark.svg" style="padding-right:10px;" />]
-[<img align="left" alt="MySQL" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Git" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
+## Experience
 
-  
+- **8 years** of experience in financial and data analysis, with hands-on work in AI/ML and C++ projects.  
+- **1 year** as a **Project Manager**, leading teams in fintech, logistics, and B2B sales.
+- Specialized in **high-frequency trading (HFT), financial modeling, and algorithmic strategies**.
 
+---
 
+## Technical Skills & Tools
+
+### Programming & Data Science:
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/) 
+[![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)  
+[![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/) 
+[![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)  
+[![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)](https://pandas.pydata.org/) 
+[![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)](https://numpy.org/)  
+[![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=matplotlib)](https://matplotlib.org/)  
+[![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org/)  
+[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle)](https://www.kaggle.com/)  
+
+### Development & Databases:
+[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)  
+[![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)  
+[![QT](https://img.shields.io/badge/-Qt-41CD52?style=flat&logo=qt&logoColor=white)](https://www.qt.io/)  
+[![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)](https://ubuntu.com/)  
+[![UML](https://img.shields.io/badge/-UML-25A1DB?style=flat&logo=unifiedmodelinglanguage)](https://www.uml.org/)  
+
+---
+
+## Certifications
+
+```html
+<div align="center">
+  <table>
+    <tr>
+      <th>Certification</th>
+      <th>Issuer</th>
+      <th>Year</th>
+    </tr>
+    <tr>
+      <td>Deep Learning Specialization</td>
+      <td>Coursera - Andrew Ng</td>
+      <td>2023</td>
+    </tr>
+    <tr>
+      <td>Algorithmic Trading Strategies</td>
+      <td>QuantInsti</td>
+      <td>2024</td>
+    </tr>
+    <tr>
+      <td>Financial Engineering</td>
+      <td>EDX - Columbia University</td>
+      <td>2022</td>
+    </tr>
+  </table>
+</div>
+```
+
+*Simply update the table above to add more certifications.*
+
+---
+
+## Interests & Hobbies
+
+- **Finance & Trading** – Algorithmic trading, market making, HFT.
+- **Psychology & AI** – Exploring human cognition and artificial intelligence.
+- **Martial Arts & Sports** – Muay Thai, skydiving, shooting ranges.
+- **Pop Culture** – **Star Wars (pre-Disney), comics, stand-up comedy, video games.**
+
+---
+
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nathanclover)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/NathanClover)  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nathan.clover@example.com)  
+
+---
+
+**Always learning, always building.** 🚀
