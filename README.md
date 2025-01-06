@@ -76,12 +76,6 @@ My passion lies in **Quantitative Data Science for Algorithmic Trading**. After 
 - **Martial Arts & Sports** – Muay Thai, skydiving, shooting ranges.
 - **Pop Culture** – **Star Wars (pre-Disney), comics, stand-up comedy, video games.**
 
----
-
-## Connect with Me
-
-[![LinkedIn](https://www.linkedin.com/in/nathanc93/)  
-[![Email](clover9301@gmail.com)  
 
 ---
 
